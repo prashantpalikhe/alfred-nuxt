@@ -2,7 +2,7 @@
 
 > Alfred workflow for Nuxt.js
 
-<img src="recording.gif" width="895">
+<img src="recording.gif" width="600">
 
 ## Install
 
